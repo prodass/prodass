@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prodass
 - 👀 I’m interested in programming language and the space. :)
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning c#.
 - 💞️ I’m looking to collaborate on any software projects.
 - 📫 How to reach me: Linkedin: @prodas.
 
